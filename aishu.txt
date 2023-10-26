@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>tea shop</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <style>
+        body
+        {background-image: url(tea1.jpg);
+        
+            
+        
+        }
+        
+
+        .web li ul
+        {
+            float:left;
+            margin: auto;
+            text-decoration: none;
+            width: 30px;
+            margin: 30px;
+            margin-left: 25;
+        
+            
+        
+            
+        }
+        .web li ul a
+        {
+            text-decoration: none; 
+        color: black;
+        size: 800px; 
+
+        
+        }
+        .page h1
+        {
+        text-align: center;
+        margin-left: 20px;
+        margin-top: 500px;
+        border:outset;
+        border-radius: 100px 100px;
+    
+        
+
+    
+        
+        }
+    
+
+    
+    
+  
+    </style>
+</head>
+<body>
+<div class="web">
+    <li>
+        <ul><a href="#">Home</a></ul>
+        <ul><a href="#">info</a></ul>
+        <ul><a href="#">Discount</a></ul>
+        <ul><a href="#">contact</a></ul>
+    </li>
+</div>
+
+    
+    
+</body>
+</html>
